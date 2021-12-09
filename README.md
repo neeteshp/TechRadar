@@ -30,6 +30,9 @@ AWS DynamoDB,HOLD,Datastores,up,https://aws.amazon.com/dynamodb/
 Kafka,ASSESS,Data Management,down,https://kafka.apache.org/
 ```
 
+## Live Demo
+[neeteshp.github.io/techradar/](neeteshp.github.io/techradar/)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
