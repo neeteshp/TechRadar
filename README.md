@@ -31,7 +31,7 @@ Kafka,ASSESS,Data Management,down,https://kafka.apache.org/
 ```
 
 ## Live Demo
-[neeteshp.github.io/techradar/](neeteshp.github.io/techradar/)
+[https://neeteshp.github.io/TechRadar/](https://neeteshp.github.io/TechRadar/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
