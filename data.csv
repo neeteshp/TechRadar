@@ -1,0 +1,7 @@
+name,ring,quadrant,moved,link
+Java,ADOPT,Languages,none,../docs/java.html
+Typescript,TRIAL,Languages,down,../docs/typescript.html
+.Net,ASSESS,Languages,up,../docs/typescript.html
+AWS CloudFormation,TRIAL,Infrastructure,up,https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html
+AWS DynamoDB,HOLD,Datastores,up,https://aws.amazon.com/dynamodb/
+Kafka,ASSESS,Data Management,down,https://kafka.apache.org/
